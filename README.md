@@ -38,7 +38,11 @@ Important: both files has to be from the same source, compatible in ids. On othe
 
 ## Authors
 
-* **Fernanda Luz P Costa** - *Initial work* - [ferandalpcosta](https://github.com/fernandalpcosta)
+* **Fernanda Luz P Costa** - *Initial work* - [fernandalpcosta](https://github.com/fernandalpcosta)
+
+## Contributors
+
+* **Mayla Daiane Correa Molinari**
 
 ## License
 
