@@ -42,7 +42,7 @@ Important: both files has to be from the same source, compatible in ids. On othe
 
 ## Contributors
 
-* **Mayla Daiane Correa Molinari**
+* **[Mayla Daiane Correa Molinari](https://github.com/maylamolinari)**
 
 ## License
 
